@@ -1,4 +1,4 @@
 # platzi-curso-estadistica-descriptiva-2021
 notebooks del curso de estadística descriptiva
 
-[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/project/278a6f04-3419-4d21-9134-dbfb94ddb59b)
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fpachocamacho1990%2Fplatzi-curso-estadistica-descriptiva-2021)
