@@ -1,6 +1,6 @@
 ---
 title: "Cursos de matemáticas para data science: Estadísticas descriptivas"
-classes: "3-25"
+classes: "2-25"
 publishDate: "2021-06-21"
 thumbnailImage: ""
 shareText: " Description:  "

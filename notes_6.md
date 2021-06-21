@@ -1,6 +1,6 @@
 ---
 title: "Cursos de matemáticas para data science: Estadísticas descriptivas"
-classes: "4-25"
+classes: "9-25"
 publishDate: "2021-06-21"
 thumbnailImage: ""
 shareText: " Description: Curso complementario en la escuela de DS con platzi "
@@ -28,9 +28,8 @@ draft: false
   - **1er cuartil (Q1):** 25% de los datos es menor que o igual a este valor.
   - **2do cuartil (Q2):** La mediana. 50% de los datos es menor que o igual a este valor.
   - **3er cuartil (Q3):** 75% de los datos es menor que o igual a este valor.
-  
 * **Rango intercuartil (IQR):** La distancia entre el primer 1er cuartil y el 3er cuartil (Q3-Q1); de esta manera, abarca el 50% central de los datos.
-* **Desviación estándar**: 
+* **Desviación estándar**: La **desviación estándar** mide la dispersión de una distribución de datos. Entre más dispersa está una distribución de datos, más grande es su **desviación estándar**.
 
 - **Diagrama de caja o box plot:** representa gráficamente una serie de datos numéricos a través de sus cuartiles. De esta manera, el diagrama de caja muestra a simple vista la mediana y los cuartiles de los datos. También puede representar los valores atípicos de estos.
 

@@ -1,6 +1,6 @@
 ---
 title: "Cursos de matemáticas para data science: Estadísticas descriptivas"
-classes: "4-25"
+classes: "8-25"
 publishDate: "2021-06-21"
 thumbnailImage: ""
 shareText: " Description: Curso complementario en la escuela de DS con platzi "

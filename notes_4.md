@@ -145,7 +145,7 @@ Donde
 $$
 \text{Freq}(x_k) = \max{(\text{Freq}(x_i))}
 $$
-  
+
 
 
 
