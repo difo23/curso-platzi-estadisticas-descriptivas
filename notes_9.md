@@ -28,12 +28,20 @@ draft: false
 
 ## Diagrama de dispersión en el análisis de datos 
 
-- [Joint Plot ](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
-- [Bar Plot](https://seaborn.pydata.org/generated/seaborn.barplot.html)
-- [Box Plot](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
-- [Scatter Plot](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)
+
 
 ![image-20210620232319777](/home/digdata/.config/Typora/typora-user-images/image-20210620232319777.png)
+
+## Mas información sobre gráficas importantes
+
+> - [Joint Plot ](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
+> - [Bar Plot](https://seaborn.pydata.org/generated/seaborn.barplot.html)
+> - [Box Plot](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
+> - [Scatter Plot](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)
+
+
+
+## Código de referencia 
 
 ```python
 import pandas as pd 
@@ -64,6 +72,8 @@ sns.boxplot(x = 'species', y = 'sepal_length', data = iris)
 #Barplot
 sns.barplot(x = 'species', y = 'sepal_length', data = iris)
 ```
+
+## La **curtosis**
 
 > La **curtosis** es una medida estadística que determina el grado de concentración que presentan los valores de una variable alrededor de la zona central de la distribución de frecuencias. También es conocida como medida de apuntamiento.
 
