@@ -33,5 +33,5 @@ draft: false
 
 - **Diagrama de caja o box plot:** representa gráficamente una serie de datos numéricos a través de sus cuartiles. De esta manera, el diagrama de caja muestra a simple vista la mediana y los cuartiles de los datos. También puede representar los valores atípicos de estos.
 
-![image-20210620212656347](/home/digdata/.config/Typora/typora-user-images/image-20210620212656347.png)
+![image-20210620212656347](./images/image-20210620212656347.png)
 

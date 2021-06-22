@@ -90,7 +90,7 @@ sns.boxplot(df['price_usd'], ax=ax_box)
 ax_hist.set(xlabel='')
 ```
 
-![image-20210620223127089](/home/digdata/.config/Typora/typora-user-images/image-20210620223127089.png)
+![image-20210620223127089](./images/image-20210620223127089.png)
 
 Es posible calcular varios `box-plot` separando por una cierta variable categórica:
 
@@ -98,7 +98,7 @@ Es posible calcular varios `box-plot` separando por una cierta variable categór
 sns.boxplot(x = 'engine_fuel', y = 'price_usd', data = df)
 ```
 
-![image-20210620223234912](/home/digdata/.config/Typora/typora-user-images/image-20210620223234912.png)
+![image-20210620223234912](./images/image-20210620223234912.png)
 
 ## Asimetría en distribuciones
 

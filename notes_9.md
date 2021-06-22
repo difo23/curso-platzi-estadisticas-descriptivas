@@ -19,7 +19,7 @@ draft: false
 
 ## Notes
 
-![image-20210620223127089](/home/digdata/.config/Typora/typora-user-images/image-20210620223127089.png)
+![image-20210620223127089](./images/image-20210620223127089.png)
 
 - Diagrama de caja o Boxplot
 - Histograma
@@ -30,7 +30,7 @@ draft: false
 
 
 
-![image-20210620232319777](/home/digdata/.config/Typora/typora-user-images/image-20210620232319777.png)
+![image-20210620232319777](./images/image-20210620232319777.png)
 
 ## Mas información sobre gráficas importantes
 
